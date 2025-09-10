@@ -1,0 +1,12 @@
+values,names,fixed
+2.2,R0_1,0
+0.5,R0_2,0
+1.1,R0_3,0
+0.9,R0_4,0
+5,infectious,0
+5,incubation,0
+0,t0,0
+1.00E-05,I0,1
+60,t_switch1,1
+110,t_switch2,1
+160,t_switch3,1
